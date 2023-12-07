@@ -33,6 +33,5 @@ allprojects {
         api "com.badlogicgames.gdx:gdx-box2d-platform:1.12.0:natives-desktop"
         api "com.badlogicgames.gdx:gdx:1.12.0"
         api "com.badlogicgames.gdx:gdx-box2d:1.12.0"
-
     }
 }
